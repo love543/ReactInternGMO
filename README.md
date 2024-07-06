@@ -63,3 +63,8 @@ The changes will automatically reflect in the browser.
    
 3. **Deploy to GitHub Pages:**
    npm run deploy
+
+### Contact
+Love Sharma - lovesharma44349@gmail.com
+
+Project Link: https://github.com/love543/ReactInternGMO
